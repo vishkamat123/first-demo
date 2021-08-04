@@ -1,0 +1,46 @@
+#Version of Git
+git --version
+
+#Clear the screen
+clear 
+
+#Git will be display all list of commands
+git
+
+#Git init
+git init
+
+mkdir learning-git-demo
+cd  learning-git-demo
+
+#print working directory
+pwd
+
+git clone URL of repo
+
+ls -ltr
+
+cd nameofdir
+
+pwd
+
+git status
+
+git add README.txt
+
+git status
+
+git commit -m "Added first file in repos"
+
+git push
+
+#do some changes in GUI and then come to the gitbash and do 
+
+git pull
+
+#and 
+
+cat nameoffile
+
+
+
